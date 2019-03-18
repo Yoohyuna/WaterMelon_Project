@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="//192.168.0.34/webtest/3.java/21일차(JDBC Programming 개요 및 작성법)/ojdbc6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
